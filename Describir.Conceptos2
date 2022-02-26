@@ -1,0 +1,16 @@
+// En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+// FOR: es un bucle, sirve para que nos devuelvan resultados hasta que se cumpla cierta condicion y deje de ejecurtarse. Puede ser que se ejecute infinitamente.
+// Basicamente sirve para ahorrarnos tiempo 
+
+// &&: significan y (and)
+// significa que evalua 2 expresiones y si ambas son true, entonces devuelve true.
+// si hay una false o ambas, devuelve false.
+
+// ||: significan o (or)
+// significa que se evalua 2 expresiones y si una sola o ambas sontrue, entonces devuelve true.
+// si ambas son false devuelve false.
+
+// !: significa no (not)
+// devuelve el valor opuesto a lo que se indica.
+// ejemplo: si = significa igual, cuando ponemos != significa distinto (lo contrario).

@@ -1,9 +1,9 @@
-En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+// En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-Variables: se crean para definir elementos de un codigo. se guardan en la memoria.
-Strings: se encierran entre ''. Sirven para definir elementos con caracter de palabras
-Funciones (argumentos, return): Las funciones tienen como objetivo ejecutarse y devolver algo.
-								Argumentos: son los elementos que interactuan en la funcion.
-								Return: se usa al final de la funcion para que devuelva el resultado.
-Declaraciones (if): se usa para comparar dos o mas elementos y asi devolver un resultado
-Valores booleanos (true, false): los valores booleanos tiene solo 2 resultados que son true o false y no pueden ser otros.
+// Variables: se crean para definir elementos de un codigo. se guardan en la memoria.
+// Strings: se encierran entre ''. Sirven para definir elementos con caracter de palabras
+// Funciones (argumentos, return): Las funciones tienen como objetivo ejecutarse y devolver algo.
+								// Argumentos: son los elementos que interactuan en la funcion.
+								// Return: se usa al final de la funcion para que devuelva el resultado.
+// Declaraciones (if): se usa para comparar dos o mas elementos y asi devolver un resultado
+// Valores booleanos (true, false): los valores booleanos tiene solo 2 resultados que son true o false y no pueden ser otros.
